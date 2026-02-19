@@ -1,0 +1,7 @@
+#!/bin/bash
+set -e
+
+export DEBIAN_FRONTEND=noninteractive
+apt-get update -y
+
+apt-get install -y libuser acl tar lvm2 xfsprogs wget net-tools
