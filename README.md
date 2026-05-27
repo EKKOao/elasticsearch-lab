@@ -1,3 +1,3 @@
 # elasticsearch-lab
 
-[NoSQL Nest Medium](https://www.nosqlnest.com)
+[NoSQL Nest Medium](https://nosqlnest.com)
